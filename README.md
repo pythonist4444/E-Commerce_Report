@@ -110,7 +110,7 @@ RETURN AVERAGEX(DaysBetween, DATEDIFF([FirstPurchase], [SecondPurchase], DAY))
 4. **Navigate**: Click page icons to switch between views
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-analytics-powerbi.git
+git clone https://github.com/pythonist4444/E-Commerce_Report
 ```
 
 ---
