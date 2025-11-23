@@ -118,11 +118,10 @@ git clone https://github.com/yourusername/ecommerce-analytics-powerbi.git
 ## 📂 Repository Structure
 
 ```
-├── Ecommerce_Analytics_Report.pbix    # Main Power BI file
-├── Ecommerce_Analytics_Report.pdf    # Power BI PDF file
+├── Ecommerce_Report.pbix    # Main Power BI file
+├── Ecommerce_Report.pdf    # Power BI PDF file
 ├── screenshots/                           # Dashboard images
-├── dax_measures/                          # All DAX code
-├── data/                                  # Data dictionary
+├── dax_measures/                          # All DAX code                             
 └── README.md                              # This file
 ```
 
